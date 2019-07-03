@@ -10,7 +10,7 @@ sap.ui.define([
 
 	};
 
-	return UIComponent.extend("Component", {
+	return UIComponent.extend("smartFactory.Component", {
 
 		metadata: {
 			manifest: "json"
